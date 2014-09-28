@@ -23,7 +23,9 @@
 		display: inline-block;
 	    /*float: right;*/   
 	    overflow: hidden; 
-	    position: relative;}
+	    position: relative;
+
+	}
 
 	div.isotope a {
 	    position:absolute;

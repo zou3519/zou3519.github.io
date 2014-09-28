@@ -11,7 +11,6 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
-
 	#isotope-container{position:relative; width:100%; overflow:hidden;}
 	.isotope{
 		position:relative; 
@@ -759,6 +758,7 @@
 		background-size:  cover;
 		background-attachment: fixed;
 		background-position:  center center;
+		-webkit-background-size: cover !important;
 	}
 
 /*********************************************************************************/

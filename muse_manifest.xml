@@ -1,0 +1,67 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="richardzou.me" resolutions="1x" timestamp="1436161215699">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4140002060" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="richard.pdf" crc="4243045136" seo="true" mt="1428860143000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="propic-u989-fr.jpg" crc="384381160" ref="index"/>
+    <file name="propic.jpg" crc="3839809842" ref="index"/>
+    <file name="user.png" crc="3781596402" ref="index"/>
+    <file name="portfolio.png" crc="3806203652" ref="index"/>
+    <file name="envelope.png" crc="254145686" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="dribbble.png" crc="4050684656" ref="index"/>
+    <file name="employment.png" crc="3975249190" ref="index"/>
+    <file name="akamai_technologies,_inc_logo.png" crc="333468439" ref="index"/>
+    <file name="liveramp.png" crc="4179214109" ref="index"/>
+    <file name="harvard_shield-college.png" crc="440465885" ref="index"/>
+    <file name="hunter_logo.jpg" crc="191253181" ref="index"/>
+    <file name="img-thing.jpg" crc="99446634" ref="index"/>
+    <file name="connect.jpg" crc="3881404608" seo="true" ref="index"/>
+    <file name="truth.jpg" crc="512861443" seo="true" ref="index"/>
+    <file name="breakout.jpg" crc="69853887" seo="true" ref="index"/>
+    <file name="td.jpg" crc="349256519" seo="true" ref="index"/>
+    <file name="2.jpg" crc="236735783" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="3.jpg" crc="496317341" seo="true" ref="index"/>
+    <file name="4.jpg" crc="367941893" seo="true" ref="index"/>
+    <file name="5.jpg" crc="411805220" seo="true" ref="index"/>
+    <file name="6.jpg" crc="274387104" seo="true" ref="index"/>
+    <file name="7.jpg" crc="3905915585" seo="true" ref="index"/>
+    <file name="8.jpg" crc="4159512020" seo="true" ref="index"/>
+    <file name="9.jpg" crc="250208152" seo="true" ref="index"/>
+    <file name="10.jpg" crc="3978769095" seo="true" ref="index"/>
+    <file name="11.jpg" crc="4083218301" seo="true" ref="index"/>
+    <file name="12.jpg" crc="158579112" seo="true" ref="index"/>
+    <file name="13.jpg" crc="478315397" seo="true" ref="index"/>
+    <file name="2351x234.jpg" crc="118159748" seo="true" ref="index"/>
+    <file name="3351x234.jpg" crc="258746202" seo="true" ref="index"/>
+    <file name="4351x234.jpg" crc="511981207" seo="true" ref="index"/>
+    <file name="5351x234.jpg" crc="22532152" seo="true" ref="index"/>
+    <file name="6351x234.jpg" crc="4194373710" seo="true" ref="index"/>
+    <file name="7-crop-u1997.jpg" crc="188682479" ref="index"/>
+    <file name="8351x234.jpg" crc="76504447" seo="true" ref="index"/>
+    <file name="9-crop-u2015.jpg" crc="3951573356" ref="index"/>
+    <file name="10-crop-u2024.jpg" crc="4002213019" ref="index"/>
+    <file name="11351x234.jpg" crc="326082603" seo="true" ref="index"/>
+    <file name="12351x234.jpg" crc="4023706464" seo="true" ref="index"/>
+    <file name="13351x234.jpg" crc="479048808" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3948844803" seo="true" mt="1436161213867" redirect="true"/>
+</manifest>

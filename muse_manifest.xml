@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="richardzou.me" resolutions="1x" timestamp="1436245019740">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="richardzou.me" resolutions="1x" timestamp="1436245223699">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="331766975" ref="index"/>
+    <file name="index.css" crc="530054205" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="richard.pdf" crc="4243045136" seo="true" mt="1428860143000"/>
@@ -70,5 +70,5 @@
     <file name="13351x234.jpg" crc="479048808" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4115606982" seo="true" mt="1436244950628" redirect="true"/>
+  <file name="index.html" crc="4115606982" seo="true" mt="1436245214371" redirect="true"/>
 </manifest>

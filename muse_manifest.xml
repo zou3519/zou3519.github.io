@@ -1,10 +1,11 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="richardzou.me" resolutions="1x" timestamp="1436245223699">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="richardzou.me" resolutions="1x" timestamp="1437117293663">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="530054205" ref="index"/>
+    <file name="index.css" crc="125749814" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="richard.pdf" crc="4243045136" seo="true" mt="1428860143000"/>
+    <file name="richard2.pdf" crc="4152964630" seo="true" mt="1437116520000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
@@ -33,7 +34,6 @@
     <file name="u2117-r.png" crc="3899461684" ref="index"/>
     <file name="u2105.png" crc="3950428593" ref="index"/>
     <file name="u2105-r.png" crc="197762966" ref="index"/>
-    <file name="employment.png" crc="3975249190" ref="index"/>
     <file name="akamai_technologies,_inc_logo.png" crc="333468439" ref="index"/>
     <file name="liveramp.png" crc="4179214109" ref="index"/>
     <file name="harvard_shield-college.png" crc="440465885" ref="index"/>
@@ -70,5 +70,5 @@
     <file name="13351x234.jpg" crc="479048808" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4115606982" seo="true" mt="1436245214371" redirect="true"/>
+  <file name="index.html" crc="104169478" seo="true" mt="1437117261820" redirect="true"/>
 </manifest>
